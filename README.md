@@ -6,4 +6,6 @@ Second change.
 
 Third change
 
+*** Third task
+
 Fourth change
